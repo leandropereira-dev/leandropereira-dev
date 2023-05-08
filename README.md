@@ -1,10 +1,16 @@
 ## Olá, meu nome é Leandro Pereira, é um grande prazer receber sua visita aos meus projetos, fique a vontade.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/)
+- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de sistemas na  Universidade PUC Minas
+- 😀 Adoro ler livros 📘, tocar violão 🎸 e jogar video game 🎮
 
-![Leandro Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=leandropereira-dev&show_icons=true&theme=tokyonight)
 
-## As tecnologias que estou aprendendo e utilizando em meus projetos são:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/)   
+
+<br> ![Leandro Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=leandropereira-dev&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropereira-dev&layout=compact)](https://github.com/leandropereira-dev/github-readme-stats) 
+
+
+## As tecnologias que eu utilizo para desenvolvimento de projetos
 
 <div style="display: inline_block"><br/><img align="center" alt="SOLinux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -21,3 +27,6 @@
 
 "Não há limites geográficos e nem podemos enumerar quantas pessoas iremos melhorar suas vidas através da programação"<br>
 *Leandro Pereira*<br/>
+
+           
+          
