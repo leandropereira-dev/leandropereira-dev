@@ -1,4 +1,4 @@
-## Olá, meu nome é Leandro Pereira, é um grande prazer receber sua visita aos meus projetos, fique a vontade.
+## Olá, meu nome é Leandro Pereira, seja bem vindo(a) ao meu repositório.
 
 - 👨‍🎓 Sou estudante de Análise e Desenvolvimento de sistemas na  Universidade PUC Minas
 - 😀 Adoro ler livros 📘, tocar violão 🎸 e jogar video game 🎮
@@ -25,7 +25,7 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-"Não há limites geográficos e nem podemos enumerar quantas pessoas iremos melhorar suas vidas através da programação"<br>
+<br> "Não há limites geográficos e nem podemos enumerar quantas pessoas iremos melhorar suas vidas através da programação"<br>
 *Leandro Pereira*<br/>
 
            
