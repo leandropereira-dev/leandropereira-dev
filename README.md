@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropereira-dev&layout=compact)](https://github.com/leandropereira-dev/github-readme-stats) 
 
 
-## As tecnologias que eu utilizo para desenvolvimento de projetos
+## Tecnologias que eu estudo e utilizo para desenvolvimento de projetos:
 
 <div style="display: inline_block"><br/><img align="center" alt="SOLinux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
