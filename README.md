@@ -1,7 +1,7 @@
 ## Olá, meu nome é Leandro Pereira, seja bem vindo(a) ao meu repositório.
 
 - 👨‍🎓 Sou estudante de Análise e Desenvolvimento de sistemas na  Universidade PUC Minas
-- 😀 Adoro ler livros 📘, tocar violão 🎸, e games 🎮
+- 😀 Adoro ler livros 📘, tocar violão 🎸, e jogar games 🎮
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/)   
