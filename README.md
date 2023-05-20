@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leandro Pereira, seja bem vindo(a) ao meu repositório.
 
-- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de sistemas na  Universidade PUC Minas
+- 👨‍🎓 Sou estudante de TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na Universidade PUC Minas
 - 😀 Adoro ler livros 📘, tocar violão 🎸, e jogar games 🎮
 
 
