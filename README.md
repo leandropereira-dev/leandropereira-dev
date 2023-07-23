@@ -1,8 +1,7 @@
 ## Olá, meu nome é Leandro Pereira, seja bem vindo(a) ao meu repositório.
 
-- 👨‍💻 Desenvolvedor Web Front-end
+- 👨‍💻 Desenvolvedor Front-end
 - 👨‍🎓 Cursando ANÁLISE e DESENVOLVIMENTO de SISTEMAS (Instituto INFNET)
-- 😀 Adoro ler livros 📘, tocar violão 🎸, e jogar games 🎮
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/)   
