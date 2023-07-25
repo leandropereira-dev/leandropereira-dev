@@ -1,4 +1,4 @@
-## Olá, meu nome é Leandro Pereira, seja bem vindo(a) ao meu repositório.
+## Olá, meu nome é Leandro Pereira, sou desenvolvedor Front-End,seja bem vindo(a) ao meu repositório.
 
 - 👨‍💻 Desenvolvedor Front-End | Front-End developer
 - 👨‍🎓 Cursando ANÁLISE e DESENVOLVIMENTO de SISTEMAS (Instituto INFNET)
