@@ -1,7 +1,8 @@
-## Olá, meu nome é Leandro Pereira, sou desenvolvedor Front-End, seja bem vindo(a) ao meu repositório.
-
-- 👨‍💻 Desenvolvedor Front-End | Front-End developer
-- 👨‍🎓 Cursando ANÁLISE e DESENVOLVIMENTO de SISTEMAS (Instituto INFNET)
+## LEANDRO PEREIRA
+## Desenvolvedor Front-End | Desenvolvedor Web Front-End | Front-End Developer
+ 
+- 👨‍🎓 Graduando-me em ANÁLISE e DESENVOLVIMENTO de SISTEMAS (Instituto INFNET)
+- 👨‍💻 Desenvolver para a Web é o que eu mais amo na programação.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/) 
@@ -12,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropereira-dev&layout=compact)](https://github.com/leandropereira-dev/github-readme-stats) 
 
 
-## Principais tecnologias que utilizo para desenvolvimento:
+## Principais tecnologias que utilizo:
 <div style="display: inline_block"><br/> 
            
 
