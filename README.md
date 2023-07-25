@@ -1,10 +1,12 @@
-## Olá, meu nome é Leandro Pereira, sou desenvolvedor Front-End,seja bem vindo(a) ao meu repositório.
+## Olá, meu nome é Leandro Pereira, sou desenvolvedor Front-End, seja bem vindo(a) ao meu repositório.
 
 - 👨‍💻 Desenvolvedor Front-End | Front-End developer
 - 👨‍🎓 Cursando ANÁLISE e DESENVOLVIMENTO de SISTEMAS (Instituto INFNET)
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/)   
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/) 
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.contatoleandrodev@gmail.com/) 
+
 
 <br> ![Leandro Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=leandropereira-dev&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropereira-dev&layout=compact)](https://github.com/leandropereira-dev/github-readme-stats) 
