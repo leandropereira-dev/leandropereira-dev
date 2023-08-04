@@ -1,8 +1,9 @@
 ## LEANDRO PEREIRA
 # Desenvolvedor Front-End | Front-End Developer
  
-- 👨‍🎓 Graduando-me em ANÁLISE e DESENVOLVIMENTO de SISTEMAS (Instituto INFNET)
-- 👨‍💻 Desenvolver para a Web é o que eu mais amo na programação.
+- 🏠 Residente em Minas Gerais - Brasil 🇧🇷
+- 👨‍🎓 Graduando em ANÁLISE e DESENVOLVIMENTO de SISTEMAS ( Instituto Infnet )
+- 👨‍💻 Dedicado ao desenvolvimento front-end utilizando HTML5, CSS3, JavaScript e React.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/) 
