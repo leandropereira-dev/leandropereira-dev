@@ -7,7 +7,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleandropereira/) 
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.contatoleandrodev@gmail.com/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.contatoleandrodev@gmail.com/) 
 
 
 <br> ![Leandro Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=leandropereira-dev&show_icons=true&theme=tokyonight)
