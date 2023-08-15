@@ -1,4 +1,4 @@
-## LEANDRO PEREIRA
+## "LEANDRO PEREIRA"
 # Desenvolvedor Front-End 
  
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas ( 1° período )
