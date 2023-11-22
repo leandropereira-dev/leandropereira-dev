@@ -1,7 +1,7 @@
 ## "LEANDRO PEREIRA"
-# Desenvolvedor Front-End 
+# Desenvolvedor Front-end 
  
-- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas ( 1° período )
+- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas (Instituto Infnet - 1° período )
 - 👨‍💻 Me especializando em desenvolvimento front-end.
 - 🏠 Residente em Minas Gerais - Brasil 🇧🇷
 
