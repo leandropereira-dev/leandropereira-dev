@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas (Instituto Infnet - 1° período)
 - 👨‍💻 Me especializando em desenvolvimento front-end.
-- 🌍 Residente em Minas Gerais - Brasil 🇧🇷
+- 🌍 localizado em Minas Gerais - Brasil 🇧🇷
 
 ---
 
