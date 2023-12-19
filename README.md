@@ -1,6 +1,6 @@
 # Leandro Pereira - Desenvolvedor Front-end 
 
-Olá, sou o Leandro Pereira, um apaixonado por desenvolvimento front-end em busca de oportunidades de estágio para aplicar e expandir meus conhecimentos. Atualmente estou no 1° período do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet.
+Olá, meu nome é Leandro Pereira, um apaixonado por desenvolvimento front-end em busca de oportunidades de estágio para aplicar e expandir meus conhecimentos e dar início a minha carreira como desenvolvedor. Atualmente estou no 1° período do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet.
 
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas (Instituto Infnet - 1° período)
 - 👨‍💻 Especializando-me em desenvolvimento front-end para criar experiências visuais envolventes e funcionais.
