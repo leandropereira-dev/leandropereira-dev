@@ -1,4 +1,4 @@
-# Leandro Pereira - Desenvolvedor Front-end 
+# Leandro Pereira - Desenvolvedor de Software 
 
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas (Instituto Infnet - 2° período)
 - 👨‍💻 Especializando-me em desenvolvimento front-end para criar experiências visuais envolventes e funcionais.
