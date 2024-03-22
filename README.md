@@ -1,4 +1,4 @@
-# Leandro Pereira - Front-end developer 
+# Front-end Developer 
  
 - 🌍 Located in Minas Gerais - Brazil🇧🇷
 
