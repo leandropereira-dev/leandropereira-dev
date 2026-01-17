@@ -1,4 +1,4 @@
-# Desenvolvedor Front-end 
+# Desenvolvedor de Software
 
 ![Leandro Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=leandropereira-dev&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropereira-dev&layout=compact)](https://github.com/leandropereira-dev/github-readme-stats)
