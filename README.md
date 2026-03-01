@@ -1,9 +1,7 @@
 # Leandro Pereira  
 ## Desenvolvedor de Software em Formação
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Desenvolvo projetos próprios utilizando HTML, CSS, JavaScript e Python, aplicando boas práticas e conceitos de resolução de problemas.
-
----
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em lógica de programação e boas práticas. Desenvolvo projetos utilizando HTML, CSS, JavaScript e Python.
 
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
