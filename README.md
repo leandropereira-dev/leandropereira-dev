@@ -19,13 +19,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em lógica de 
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Busco uma oportunidade de estágio em desenvolvimento de software, onde possa aplicar meus conhecimentos, aprender com a equipe e contribuir de forma ativa para o crescimento dos projetos.
-
----
-
-## 📫 Contatos
+### 📫 Contatos
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/devleandropereira/
 
